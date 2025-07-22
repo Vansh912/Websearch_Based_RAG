@@ -1,4 +1,5 @@
 🚀 Features
+
 🌐 Web Search using DuckDuckGo
 
 🧠 Language understanding using LLaMA 3 via ChatOllama
@@ -12,6 +13,7 @@
 ⚙️ Modular design using LangChain
 
 🧱 Tech Stack
+
 LangChain
 
 LLaMA3 (via Ollama)
